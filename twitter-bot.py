@@ -1,5 +1,5 @@
 import tweepy
-
+# NOTE TWITTER ALLOWS 2,400 TWEETS PER DAY...sadly :/
 # Get keys from https://developer.twitter.com/en
 consumer_key = 'API KEY HERE'
 consumer_secret = 'API SECRET KEY HERE'
