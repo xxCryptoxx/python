@@ -19,6 +19,11 @@ The rest are currently **in development**
 * requests
 * json
 * os
+### OpenCV Image Detection
+* cv2
+### OpenCV Text Reader
+* pytesseract
+* cv2
 
 ## API Credentials
 #### Tweepy: [Twitter API Page](https://developer.twitter.com/en/docs/twitter-api)
