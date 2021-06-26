@@ -13,3 +13,13 @@ The rest are currently **in development**
 ### Bitcoin Price Tracker
 * requests
 * json
+### Bitcoin Notifier
+* asyncio
+* desktop_notifier
+* requests
+* json
+* os
+
+## API Credentials
+#### Tweepy: [Twitter API Page](https://developer.twitter.com/en/docs/twitter-api)
+#### Coinmarket: [Coinmarket API Page](https://coinmarketcap.com/api/)
