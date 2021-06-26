@@ -13,3 +13,10 @@ The rest are currently **in development**
 ### Bitcoin Price Tracker
 * requests
 * json
+### Bitcoin Notifier
+* asyncio
+* desktop_notifier
+* requests
+* json
+* os
+
