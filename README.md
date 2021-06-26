@@ -20,3 +20,6 @@ The rest are currently **in development**
 * json
 * os
 
+## API Credentials
+#### Tweepy: [Twitter API Page](https://developer.twitter.com/en/docs/twitter-api)
+#### Coinmarket: [Coinmarket API Page](https://coinmarketcap.com/api/)
