@@ -4,7 +4,7 @@ import cv2
 cv2.namedWindow('detection', cv2.WINDOW_NORMAL)
 
 # input
-img = cv2.imread('img1.jpg')
+img = cv2.imread('YOUR_IMAGE_HERE.EXT')
  
 # classifiers
 car_classifier = 'cars.xml'
