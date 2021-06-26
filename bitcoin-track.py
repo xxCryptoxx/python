@@ -16,7 +16,7 @@ parameters = {
 # API validation so I can get access
 headers = {
     'Accepts': 'application/json',
-    'X-CMC_PRO_API_KEY': 'API_KEY_GOES_HERE', # Get your api key from here https://coinmarketcap.com/api/
+    'X-CMC_PRO_API_KEY': 'cd5cd143-358c-410b-a79a-3db36eab307b', # Get your api key from here https://coinmarketcap.com/api/
 }
 
 # Create a session
