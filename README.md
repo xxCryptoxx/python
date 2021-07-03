@@ -24,6 +24,8 @@ The rest are currently **in development**
 ### OpenCV Text Reader
 * pytesseract
 * cv2
+### Micro Manager
+* os
 
 ## API Credentials
 #### Tweepy: [Twitter API Page](https://developer.twitter.com/en/docs/twitter-api)
