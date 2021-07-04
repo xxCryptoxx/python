@@ -26,6 +26,9 @@ The rest are currently **in development**
 * cv2
 ### Micro Manager
 * os
+### Phone Camera
+* cv2
+* numpy
 
 ## API Credentials
 #### Tweepy: [Twitter API Page](https://developer.twitter.com/en/docs/twitter-api)
