@@ -36,8 +36,7 @@ The rest are currently **in development**
 #### Tweepy: [Twitter API Page](https://developer.twitter.com/en/docs/twitter-api)
 #### Coinmarket: [Coinmarket API Page](https://coinmarketcap.com/api/)
 
-
-**Installation of libraries**
+## Installation of Libraries
 
 ```python3.9 -m pip install <libraryName>```
 
